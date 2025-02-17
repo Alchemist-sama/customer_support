@@ -72,6 +72,7 @@ table {
   width: 100%;
   border-collapse: collapse;
   margin-top: 20px;
+  
 }
 
 th, td {
@@ -111,7 +112,7 @@ button:hover {
   }
 
   #adminPanel {
-    width: 95%;
+    width: auto;
   }
 
   table {
